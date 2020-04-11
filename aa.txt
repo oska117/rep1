@@ -1,4 +1,9 @@
  i am aa. txt
  aaaa
+<<<<<<< HEAD
  dddd
+=======
+ ccccc
+>>>>>>> 1dca2da... change by master 4
  change by hot-fix
+ 
